@@ -13,5 +13,9 @@ String s=String.valueOf(char);
 Convert String to Char array:
 char [] c= myString.toCharAarray();
 
+Convert int to string:
+String s=Integer.toString(myInt);
+String s=String.valueOf(myInt);
+
 
 
