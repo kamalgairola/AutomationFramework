@@ -23,4 +23,7 @@ This casting id done on primitive data types.
 double d=2.2;
 int i=(int)d;
 
+If Char is a digit or a letter:
+Character.isLetter(c); and Character.isDigit(c)
+
 
